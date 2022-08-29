@@ -8,7 +8,10 @@ namespace Inicio
         {
             // ObjUm.Renderizar();
             // Course.Renderizar();
-            Salario.Renderizar();
+            // Salario.Renderizar();
+            // Utilizar.Renderizar();
+            // Ex03.Renderizar();
+            UsarAqui.Renderizar();
         }
 
     }
