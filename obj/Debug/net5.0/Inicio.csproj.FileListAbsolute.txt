@@ -1,0 +1,16 @@
+C:\ParteUm\Inicio\bin\Debug\net5.0\Inicio.exe
+C:\ParteUm\Inicio\bin\Debug\net5.0\Inicio.deps.json
+C:\ParteUm\Inicio\bin\Debug\net5.0\Inicio.runtimeconfig.json
+C:\ParteUm\Inicio\bin\Debug\net5.0\Inicio.runtimeconfig.dev.json
+C:\ParteUm\Inicio\bin\Debug\net5.0\Inicio.dll
+C:\ParteUm\Inicio\bin\Debug\net5.0\ref\Inicio.dll
+C:\ParteUm\Inicio\bin\Debug\net5.0\Inicio.pdb
+C:\ParteUm\Inicio\obj\Debug\net5.0\Inicio.csproj.AssemblyReference.cache
+C:\ParteUm\Inicio\obj\Debug\net5.0\Inicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ParteUm\Inicio\obj\Debug\net5.0\Inicio.AssemblyInfoInputs.cache
+C:\ParteUm\Inicio\obj\Debug\net5.0\Inicio.AssemblyInfo.cs
+C:\ParteUm\Inicio\obj\Debug\net5.0\Inicio.csproj.CoreCompileInputs.cache
+C:\ParteUm\Inicio\obj\Debug\net5.0\Inicio.dll
+C:\ParteUm\Inicio\obj\Debug\net5.0\ref\Inicio.dll
+C:\ParteUm\Inicio\obj\Debug\net5.0\Inicio.pdb
+C:\ParteUm\Inicio\obj\Debug\net5.0\Inicio.genruntimeconfig.cache
